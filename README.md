@@ -12,10 +12,11 @@
 <!--Intro-->
 <h2>I. Introdução. ✌️</h2>
 
-### Bem-vindo ao Meu Repositório de Projetos e Desafios do Curso!
+### Bem-vindo ao meu repositório de projetos e desafios do curso CS50's
 
-### Aqui, você encontrará uma coleção dos meus projetos e resoluções de desafios, desenvolvidos durante o curso [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) da Universidade Harvard, disponível no site [EDX](https://www.edx.org/). Estou animado para compartilhar o meu progresso e as soluções criativas que encontrei ao longo do curso. Fique à vontade para explorar os projetos e, quem sabe, encontrar inspiração para os seus próprios desafios!
+### Aqui, você encontrará uma coleção dos meus projetos e resoluções de desafios, desenvolvidos durante o curso [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) da Universidade Harvard, disponível no site [EDX](https://www.edx.org/). 
 
-### Happy coding! 🚀
+<!--Intro-->
 
+### Site que eu utilizei pra fazer os exercícios: [cs50.dev](https://cs50.dev./)
 ---

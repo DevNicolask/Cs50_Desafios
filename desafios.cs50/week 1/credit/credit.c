@@ -1,6 +1,6 @@
 #include <cs50.h>
-#include <stdio.h>
 #include <math.h>
+#include <stdio.h>
 
 // Prototypes of all the functions that I created.
 int count_digit(long n);
@@ -145,7 +145,7 @@ bool luhn_algorithm(int dgts, long n)
         // Loop for to split digits 2-by-2
         for (int i = (dgts - 1); i >= 0; i -= 1)
         {
-            if(i % 2 == 0)
+            if (i % 2 == 0)
             {
                 digit = (number % 10);
             }
@@ -154,11 +154,11 @@ bool luhn_algorithm(int dgts, long n)
                 digit = (number % 10) * 2;
             }
 
-                // Add every number with more than one digit
-                if (digit > 9)
-                {
-                    digit = (digit % 10) + (digit / 10);
-                }
+            // Add every number with more than one digit
+            if (digit > 9)
+            {
+                digit = (digit % 10) + (digit / 10);
+            }
             number /= 10;
             add += digit;
         }
@@ -173,7 +173,7 @@ bool luhn_algorithm(int dgts, long n)
         // Loop for to split digits 2-by-2
         for (int i = (dgts - 1); i >= 0; i -= 1)
         {
-            if(i % 2 == 0)
+            if (i % 2 == 0)
             {
                 digit = (number % 10);
             }
@@ -182,17 +182,17 @@ bool luhn_algorithm(int dgts, long n)
                 digit = (number % 10) * 2;
             }
 
-                // Add every number with more than one digit
-                if (digit > 9)
-                {
-                    digit = (digit % 10) + (digit / 10);
-                }
+            // Add every number with more than one digit
+            if (digit > 9)
+            {
+                digit = (digit % 10) + (digit / 10);
+            }
             number /= 10;
             add += digit;
         }
     }
 
-     // If the number of digits is 16. (Test with the Luhn's Algorithm)
+    // If the number of digits is 16. (Test with the Luhn's Algorithm)
     else if (dgts == 16)
     {
         long number = n;
@@ -210,16 +210,16 @@ bool luhn_algorithm(int dgts, long n)
                 digit = (number % 10);
             }
 
-                // Add every number with more than one digit
-                if (digit > 9)
-                {
-                    digit = (digit % 10) + (digit / 10);
-                }
+            // Add every number with more than one digit
+            if (digit > 9)
+            {
+                digit = (digit % 10) + (digit / 10);
+            }
             number /= 10;
             add += digit;
         }
     }
- 
+
     // Return the result of Luhn's algorithm
     return ((add % 10) == 0);
 }
