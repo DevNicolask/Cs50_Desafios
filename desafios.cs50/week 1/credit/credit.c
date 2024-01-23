@@ -219,7 +219,7 @@ bool luhn_algorithm(int dgts, long n)
             add += digit;
         }
     }
-
+ 
     // Return the result of Luhn's algorithm
     return ((add % 10) == 0);
 }
