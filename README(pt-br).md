@@ -9,6 +9,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/dev.nick_57071)
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL)
 </div>
+
 <!--Intro-->
 <h2>I. Introdução. ✌️</h2>
 
@@ -16,7 +17,23 @@
 
 ### Aqui, você encontrará uma coleção dos meus projetos e resoluções de desafios, desenvolvidos durante o curso [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) da Universidade Harvard, disponível no site [EDX](https://www.edx.org/). 
 
-<!--Intro-->
-
 ### Site que eu utilizei pra fazer os exercícios: [cs50.dev](https://cs50.dev./)
 ---
+<!--Fim Intro-->
+
+<!--Aqui começam os exercícios!!!-->
+<h2>III. Exercícios.</h2>
+
+<!--Link do conjunto de problemas 0-->
+<p>
+
+* [Link do conjunto de problemas 0. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/0/)
+</p>
+
+---
+<!--Início do Conjunto de problemas da semana 0-->
+<h3>- Conjunto de problemas da semana 0</h3>
+<h4>Nome: Scratch</h4>
+
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%200)
+<!--Fim do Conjunto de problemas da semana 0-->
