@@ -19,15 +19,24 @@
 
 ### Site that I used for do the problems: [cs50.dev](https://cs50.dev./)
 ---
+<!--Introduction-->
+<h2>I. Introduction. ✌️</h2>
+
+### Welcome to my repository of projects and challenges from CS50's course
+
+### Here, you'll find a collection of my projects and challenge solutions developed during the [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) course at Harvard University, available on [EDX](https://www.edx.org/).
+
+### Site that I used for the problems: [cs50.dev](https://cs50.dev./)
+---
 <!--End of Introduction-->
 
 <!--Here begin the problems!!!-->
-<h2>III. problems.</h2>
+<h2>III. Problems.</h2>
 
 <!--Link to the problem set 0-->
 <p>
 
-* [Link to the Problem set 0. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/0/)
+* [Link to the Problem Set 0. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/0/)
 
 </p>
 
@@ -51,7 +60,7 @@
 <!--Exercise 1-->
 <h4>Name: Hello World.</h4>
 
-* [Problem Statement "Hello word"](https://cs50.harvard.edu/x/2024/psets/1/world/)
+* [Problem Statement "Hello World"](https://cs50.harvard.edu/x/2024/psets/1/world/)
 * [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/world)
 
 <!--Exercise 2-->
