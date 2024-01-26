@@ -1,3 +1,6 @@
+<!--Tradutor-->
+### [English](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README(en).md) | **[Portugu&ecirc;s](#)**
+
 <!--Título do repositório-->
 # <center>Minha resolução dos desafios do curso Introduction to Computer Science: CS50.</center>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha ><br><br>
