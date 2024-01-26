@@ -32,9 +32,55 @@
 </p>
 
 ---
-<!--Problems of set 0-->
+<!--Start of Problem Set for Week 0-->
 <h3>- Week 0 Exercise</h3>
 <h4>Name: Scratch</h4>
 
 * [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%200)
-<!--End of problems from set 0-->
+<!--End of problems for set 0-->
+
+<!--Link of problem set 1-->
+<p>
+
+* [Link to Problem Set 1. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/1/)
+</p>
+
+---
+<!--Start of Problem Set for Week 1-->
+<h3>- Problem Set for Week 1</h3>
+<!--Exercise 1-->
+<h4>Name: Hello World.</h4>
+
+* [Problem Statement "Hello word"](https://cs50.harvard.edu/x/2024/psets/1/world/)
+* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/world)
+
+<!--Exercise 2-->
+<h4>Name: Hello it's me.</h4>
+
+* [Problem Statement "Hello, it's me"](https://cs50.harvard.edu/x/2024/psets/1/me/)
+* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/me)
+
+<!--Exercise 3-->
+<h4>Name: Mario-less.</h4>
+
+* [Problem Statement "Mario-less"](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
+* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/mario-less)
+
+<!--Exercise 4-->
+<h4>Name: Mario-More.</h4>
+
+* [Problem Statement "Mario-More"](https://cs50.harvard.edu/x/2024/psets/1/mario/more/)
+* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/mario-more)
+
+<!--Exercise 5-->
+<h4>Name: Cash.</h4>
+
+* [Problem Statement "Cash"](https://cs50.harvard.edu/x/2024/psets/1/cash/)
+* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/cash)
+
+<!--Exercise 6-->
+<h4>Name: Credit.</h4>
+
+* [Problem Statement "Credit"](https://cs50.harvard.edu/x/2024/psets/1/credit/)
+* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/credit)
+<!--End of Problem Set for Week 1-->

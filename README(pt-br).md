@@ -35,5 +35,52 @@
 <h3>- Conjunto de problemas da semana 0</h3>
 <h4>Nome: Scratch</h4>
 
-* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%200)
+* [Minha resolução]()
+
 <!--Fim do Conjunto de problemas da semana 0-->
+
+<!--Link do conjunto de problemas 1-->
+<p>
+
+* [Link do conjunto de problemas 1. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/1/)
+</p>
+
+---
+<!--Início do Conjunto de problemas da semana 1-->
+<h3>- Conjunto de problemas da semana 1</h3>
+<!--Exercício 1-->
+<h4>Nome: Hello World.</h4>
+
+* [Enunciado do problema "Hello!"](https://cs50.harvard.edu/x/2024/psets/1/world/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/world)
+
+<!--Exercício 2-->
+<h4>Nome: Hello it's me.</h4>
+
+* [Enunciado do problema "Hello, it's me"](https://cs50.harvard.edu/x/2024/psets/1/me/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/me)
+
+<!--Exercício 3-->
+<h4>Nome: Mario-less.</h4>
+
+* [Enunciado do problema "Mário-less"](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/mario-less)
+
+<!--Exercício 4-->
+<h4>Nome: Mario-More.</h4>
+
+* [Enunciado do problema "Mário-More"](https://cs50.harvard.edu/x/2024/psets/1/mario/more/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/mario-more)
+
+<!--Exercício 5-->
+<h4>Nome: Cash.</h4>
+
+* [Enunciado do problema "Cash"](https://cs50.harvard.edu/x/2024/psets/1/cash/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/cash)
+
+<!--Exercício 6-->
+<h4>Nome: Credit.</h4>
+
+* [Enunciado do problema "Credit"](https://cs50.harvard.edu/x/2024/psets/1/credit/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/credit)
+<!--Fim do Conjunto de problemas da semana 1-->
