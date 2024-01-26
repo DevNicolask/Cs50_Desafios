@@ -1,5 +1,5 @@
 <!--Tradutor-->
-### [English](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README(en).md) | **[Portugu&ecirc;s](#)**
+### [English](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README(en).md) | **[Portugu&ecirc;s](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README.md)**
 
 <!--Título do repositório-->
 # <center>Minha resolução dos desafios do curso Introduction to Computer Science: CS50.</center>
@@ -38,7 +38,7 @@
 <h3>- Conjunto de problemas da semana 0</h3>
 <h4>Nome: Scratch</h4>
 
-* [Enunciado do problema "Scratch")](https://cs50.harvard.edu/x/2024/psets/0/scratch/)
+* [Enunciado do problema "Scratch"](https://cs50.harvard.edu/x/2024/psets/0/scratch/)
 
 * [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%200)
 

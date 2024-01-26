@@ -1,3 +1,6 @@
+<!--Tradutor-->
+### [English](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README(en).md) | **[Portugu&ecirc;s](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README.md)**
+
 <!--Repository Title-->
 # <center>My solutions to the challenges from the Introduction to Computer Science: CS50 course.</center>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = line ><br><br>
@@ -45,14 +48,9 @@
 <h3>- Week 0 Exercise</h3>
 <h4>Name: Scratch</h4>
 
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%200)
-<!--End of problems for set 0-->
-
-<!--Link of problem set 1-->
-<p>
-
 * [Link to Problem Set 1. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/1/)
-</p>
+* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%200)
+<!--End of Problem Set for Week 1-->
 
 ---
 <!--Start of Problem Set for Week 1-->
