@@ -38,15 +38,11 @@
 <h3>- Conjunto de problemas da semana 0</h3>
 <h4>Nome: Scratch</h4>
 
-* [Minha resolução]()
+* [Enunciado do problema "Scratch")](https://cs50.harvard.edu/x/2024/psets/0/scratch/)
+
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%200)
 
 <!--Fim do Conjunto de problemas da semana 0-->
-
-<!--Link do conjunto de problemas 1-->
-<p>
-
-* [Link do conjunto de problemas 1. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/1/)
-</p>
 
 ---
 <!--Início do Conjunto de problemas da semana 1-->
