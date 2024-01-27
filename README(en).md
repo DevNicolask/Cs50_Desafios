@@ -1,11 +1,11 @@
 <!--Tradutor-->
-### [English](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README(en).md) | **[Portugu&ecirc;s](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README.md)**
+### **[English](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README(en).md)** | [Portugu&ecirc;s](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README.md)
 
-<!--Repository Title-->
-# <center>My solutions to the challenges from the Introduction to Computer Science: CS50 course.</center>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = line ><br><br>
+<!--Título do repositório-->
+# Minha resolução dos desafios do curso Introduction to Computer Science: CS50.
+
 <div align="center">
-<!--Nick's Links-->
+<!--Links Nick-->
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nick_ksc/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcolas-kawan-06ab3a2a5/)
@@ -13,81 +13,98 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL)
 </div>
 
-<!--Introduction-->
-<h2>I. Introduction. ✌️</h2>
+<!--linha-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha ><br>
 
-### Welcome to my repository of projects and challenges from CS50's course
+<!--Início dos caps-->
 
-### Here, you'll find a collection of my projects and challenge solutions developed during the [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) course at Harvard University, available on [EDX](https://www.edx.org/).
+## **I. Capítulos.**
 
-### Site that I used for do the problems: [cs50.dev](https://cs50.dev./)
----
-<!--Introduction-->
-<h2>I. Introduction. ✌️</h2>
+* **[II. Introdução](#ii-introdução-✌️)**
+* **[III. Exercícios](#iii-exercícios)**
+    - [Semana 0](#conjunto-de-problemas-da-semana-0)
+        * [Scratch](#nome-scratch)
+    - [Semana 1](#conjunto-de-problemas-da-semana-1)
+        * [Hello World](#nome-hello-world)
+        * [Hello, it's me](#nome-hello-its-me)
+        * [Mário-less](#nome-mario-less)
+        * [Mário-More](#nome-mario-more)
+        * [Cash](#nome-cash)
+        * [Credit](#nome-credit)
+<!--Fim dos caps-->
 
-### Welcome to my repository of projects and challenges from CS50's course
+<!--linha-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha ><br>
+<!--Início da Intro-->
+## **II. Introdução. ✌️**
 
-### Here, you'll find a collection of my projects and challenge solutions developed during the [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) course at Harvard University, available on [EDX](https://www.edx.org/).
+### Bem-vindo ao meu repositório de projetos e desafios do curso CS50's
 
-### Site that I used for the problems: [cs50.dev](https://cs50.dev./)
----
-<!--End of Introduction-->
+### Aqui, você encontrará uma coleção dos meus projetos e resoluções de desafios, desenvolvidos durante o curso [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) da Universidade Harvard, disponível no site [EDX](https://www.edx.org/). 
 
-<!--Here begin the problems!!!-->
-<h2>III. Problems.</h2>
+### Site que eu utilizei pra fazer os exercícios: [cs50.dev](https://cs50.dev./)
+<!--Fim Intro-->
 
-<!--Link to the problem set 0-->
+<!--Aqui começam os exercícios!!!-->
+
+<!--linha-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha ><br>
+
+## **III. Exercícios.**
+
+<!--Link do conjunto de problemas 0-->
 <p>
 
-* [Link to the Problem Set 0. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/0/)
-
+* [Link do conjunto de problemas 0. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/0/)
 </p>
 
 ---
-<!--Start of Problem Set for Week 0-->
-<h3>- Week 0 Exercise</h3>
-<h4>Name: Scratch</h4>
+<!--Início do Conjunto de problemas da semana 0-->
+### - Conjunto de problemas da semana 0
+#### Nome: Scratch
 
-* [Link to Problem Set 1. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/1/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%200)
-<!--End of Problem Set for Week 1-->
+* [Enunciado do problema "Scratch"](https://cs50.harvard.edu/x/2024/psets/0/scratch/)
+
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%200)
+
+<!--Fim do Conjunto de problemas da semana 0-->
 
 ---
-<!--Start of Problem Set for Week 1-->
-<h3>- Problem Set for Week 1</h3>
-<!--Exercise 1-->
-<h4>Name: Hello World.</h4>
+<!--Início do Conjunto de problemas da semana 1-->
+### - Conjunto de problemas da semana 1
+<!--Exercício 1-->
+#### Nome: Hello World.
 
-* [Problem Statement "Hello World"](https://cs50.harvard.edu/x/2024/psets/1/world/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/world)
+* [Enunciado do problema "Hello!"](https://cs50.harvard.edu/x/2024/psets/1/world/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/world)
 
-<!--Exercise 2-->
-<h4>Name: Hello it's me.</h4>
+<!--Exercício 2-->
+#### Nome: Hello it's me.
 
-* [Problem Statement "Hello, it's me"](https://cs50.harvard.edu/x/2024/psets/1/me/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/me)
+* [Enunciado do problema "Hello, it's me"](https://cs50.harvard.edu/x/2024/psets/1/me/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/me)
 
-<!--Exercise 3-->
-<h4>Name: Mario-less.</h4>
+<!--Exercício 3-->
+#### Nome: Mario-less.
 
-* [Problem Statement "Mario-less"](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/mario-less)
+* [Enunciado do problema "Mário-less"](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/mario-less)
 
-<!--Exercise 4-->
-<h4>Name: Mario-More.</h4>
+<!--Exercício 4-->
+#### Nome: Mario-More.
 
-* [Problem Statement "Mario-More"](https://cs50.harvard.edu/x/2024/psets/1/mario/more/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/mario-more)
+* [Enunciado do problema "Mário-More"](https://cs50.harvard.edu/x/2024/psets/1/mario/more/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/mario-more)
 
-<!--Exercise 5-->
-<h4>Name: Cash.</h4>
+<!--Exercício 5-->
+#### Nome: Cash.
 
-* [Problem Statement "Cash"](https://cs50.harvard.edu/x/2024/psets/1/cash/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/cash)
+* [Enunciado do problema "Cash"](https://cs50.harvard.edu/x/2024/psets/1/cash/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/cash)
 
-<!--Exercise 6-->
-<h4>Name: Credit.</h4>
+<!--Exercício 6-->
+#### Nome: Credit.
 
-* [Problem Statement "Credit"](https://cs50.harvard.edu/x/2024/psets/1/credit/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/credit)
-<!--End of Problem Set for Week 1-->
+* [Enunciado do problema "Credit"](https://cs50.harvard.edu/x/2024/psets/1/credit/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/credit)
+<!--Fim do Conjunto de problemas da semana 1-->
