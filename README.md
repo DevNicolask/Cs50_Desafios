@@ -1,5 +1,5 @@
 <!--Tradutor-->
-### [English](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README(en).md) | **[Portugu&ecirc;s](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README.md)**
+### [English](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README(en).md) | [**Portugu&ecirc;s**](https://github.com/DevNicolask/Cs50_Desafios/blob/main/README.md)
 
 <!--Título do repositório-->
 # Minha resolução dos desafios do curso Introduction to Computer Science: CS50.
@@ -64,7 +64,7 @@
 
 * [Enunciado do problema "Scratch"](https://cs50.harvard.edu/x/2024/psets/0/scratch/)
 
-* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%200)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_0)
 
 <!--Fim do Conjunto de problemas da semana 0-->
 
@@ -75,35 +75,44 @@
 #### Nome: Hello World.
 
 * [Enunciado do problema "Hello!"](https://cs50.harvard.edu/x/2024/psets/1/world/)
-* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/world)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/world)
 
 <!--Exercício 2-->
 #### Nome: Hello it's me.
 
 * [Enunciado do problema "Hello, it's me"](https://cs50.harvard.edu/x/2024/psets/1/me/)
-* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/me)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/me)
 
 <!--Exercício 3-->
 #### Nome: Mario-less.
 
 * [Enunciado do problema "Mário-less"](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
-* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/mario-less)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/mario-less)
 
 <!--Exercício 4-->
 #### Nome: Mario-More.
 
 * [Enunciado do problema "Mário-More"](https://cs50.harvard.edu/x/2024/psets/1/mario/more/)
-* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/mario-more)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/mario-more)
 
 <!--Exercício 5-->
 #### Nome: Cash.
 
 * [Enunciado do problema "Cash"](https://cs50.harvard.edu/x/2024/psets/1/cash/)
-* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/cash)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/cash)
 
 <!--Exercício 6-->
 #### Nome: Credit.
 
 * [Enunciado do problema "Credit"](https://cs50.harvard.edu/x/2024/psets/1/credit/)
-* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/credit)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/credit)
 <!--Fim do Conjunto de problemas da semana 1-->
+
+---
+<!--Início do Conjunto de problemas da semana 2-->
+### - Conjunto de problemas da semana 2
+<!--Exercício 1-->
+#### Nome: Scrabble.
+
+* [Enunciado do problema "Hello!"](https://cs50.harvard.edu/x/2024/psets/2/scrabble/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/Scrabble)
