@@ -22,15 +22,17 @@
 
 * **[II. Introdução](#ii-introdução-✌️)**
 * **[III. Exercícios](#iii-exercícios)**
-    - [Semana 0](#conjunto-de-problemas-da-semana-0)
+    - [**Semana 0**](#conjunto-de-problemas-da-semana-0)
         * [Scratch](#nome-scratch)
-    - [Semana 1](#conjunto-de-problemas-da-semana-1)
+    - [**Semana 1**](#conjunto-de-problemas-da-semana-1)
         * [Hello World](#nome-hello-world)
         * [Hello, it's me](#nome-hello-its-me)
         * [Mário-less](#nome-mario-less)
         * [Mário-More](#nome-mario-more)
         * [Cash](#nome-cash)
         * [Credit](#nome-credit)
+    - [**Semana 2**](#conjunto-de-problemas-da-semana-2)
+        * [Scrabble](#nome-scrabble)
 <!--Fim dos caps-->
 
 <!--linha-->
@@ -55,7 +57,7 @@
 <!--Link do conjunto de problemas 0-->
 <p>
 
-* [Link do conjunto de problemas 0. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/0/)
+* [Link do conjunto de problemas. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/0/)
 </p>
 
 ---
@@ -108,3 +110,12 @@
 * [Enunciado do problema "Credit"](https://cs50.harvard.edu/x/2024/psets/1/credit/)
 * [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week%201/credit)
 <!--Fim do Conjunto de problemas da semana 1-->
+
+---
+<!--Início do Conjunto de problemas da semana 2-->
+### - Conjunto de problemas da semana 2
+<!--Exercício 1-->
+#### Nome: Scrabble.
+
+* [Enunciado do problema "Hello!"](https://cs50.harvard.edu/x/2024/psets/2/scrabble/)
+* [Minha resolução](#)
