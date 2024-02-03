@@ -19,17 +19,19 @@
 
 ## **I. Capítulos.**
 
-* **[II. Introdução](#ii-introdução-✌️)**
-* **[III. Exercícios](#iii-exercícios)**
-    - [Semana 0](#conjunto-de-problemas-da-semana-0)
+* [**II. Introdução**](#ii-introdução-✌️)
+* [**III. Exercícios**](#iii-exercícios)
+    - [**Semana 0**](#conjunto-de-problemas-da-semana-0)
         * [Scratch](#nome-scratch)
-    - [Semana 1](#conjunto-de-problemas-da-semana-1)
+    - [**Semana 1**](#conjunto-de-problemas-da-semana-1)
         * [Hello World](#nome-hello-world)
         * [Hello, it's me](#nome-hello-its-me)
         * [Mário-less](#nome-mario-less)
         * [Mário-More](#nome-mario-more)
         * [Cash](#nome-cash)
         * [Credit](#nome-credit)
+    - [**Semana 2**](#conjunto-de-problemas-da-semana-2)
+        * [Scrabble](#nome-scrabble)
 
 <!--Fim dos caps-->
 

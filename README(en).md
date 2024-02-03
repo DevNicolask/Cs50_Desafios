@@ -19,17 +19,19 @@
 
 ## **I. Chapters.**
 
-* **[II. Introduction](#ii-introduction-✌️)**
-* **[III. Exercises](#iii-exercises)**
-    - [Week 0](#problem-set-week-0)
+* [**II. Introduction**](#ii-introduction-✌️)
+* [**III. Exercises**](#iii-exercises)
+    - [**Week 0**](#problem-set-week-0)
         * [Scratch](#name-scratch)
-    - [Week 1](#problem-set-week-1)
+    - [**Week 1**](#problem-set-week-1)
         * [Hello World](#name-hello-world)
         * [Hello, it's me](#name-hello-its-me)
         * [Mario-less](#name-mario-less)
         * [Mario-More](#name-mario-more)
         * [Cash](#name-cash)
         * [Credit](#name-credit)
+    - [**Week 2**](#problem-set-week-2)
+        * [Scrabble](#name-scrabble)
 
 <!--End of Chapters-->
 
