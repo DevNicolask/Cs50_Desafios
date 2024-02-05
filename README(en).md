@@ -17,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = line ><br>
 <!--Start of Chapters-->
 
-## **I. Chapters.**
+## **I. Chapters**
 
 * [**II. Introduction**](#ii-introduction-✌️)
 * [**III. Exercises**](#iii-exercises)
@@ -32,13 +32,14 @@
         * [Credit](#name-credit)
     - [**Week 2**](#problem-set-week-2)
         * [Scrabble](#name-scrabble)
+        * [Readability](#name-readability)
 
 <!--End of Chapters-->
 
 <!--line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = line ><br>
 <!--Start of Intro-->
-## **II. Introduction. ✌️**
+## **II. Introduction ✌️**
 
 ### Welcome to my repository of projects and challenges from CS50's course.
 
@@ -51,7 +52,7 @@
 
 <!--line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = line ><br>
-## **III. Exercises.**
+## **III. Exercises**
 
 <!--Link to problem set 0-->
 <p>
@@ -73,37 +74,37 @@
 <!--Start of Week 1 problem set-->
 ### - Problem Set Week 1
 <!--Exercise 1-->
-#### Name: Hello World.
+#### Name: Hello World
 
 * [Problem statement "Hello!"](https://cs50.harvard.edu/x/2024/psets/1/world/)
 * [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/world)
 
 <!--Exercise 2-->
-#### Name: Hello it's me.
+#### Name: Hello it's me
 
 * [Problem statement "Hello, it's me"](https://cs50.harvard.edu/x/2024/psets/1/me/)
 * [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/me)
 
 <!--Exercise 3-->
-#### Name: Mario-less.
+#### Name: Mario-less
 
 * [Problem statement "Mario-less"](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
 * [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/mario-less)
 
 <!--Exercise 4-->
-#### Name: Mario-More.
+#### Name: Mario-More
 
 * [Problem statement "Mario-More"](https://cs50.harvard.edu/x/2024/psets/1/mario/more/)
 * [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/mario-more)
 
 <!--Exercise 5-->
-#### Name: Cash.
+#### Name: Cash
 
 * [Problem statement "Cash"](https://cs50.harvard.edu/x/2024/psets/1/cash/)
 * [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/cash)
 
 <!--Exercise 6-->
-#### Name: Credit.
+#### Name: Credit
 
 * [Problem statement "Credit"](https://cs50.harvard.edu/x/2024/psets/1/credit/)
 * [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/credit)
@@ -113,7 +114,13 @@
 <!--Start of Problem Set Week 2-->
 ### - Problem Set Week 2
 <!--Exercise 1-->
-#### Name: Scrabble.
+#### Name: Scrabble
 
 * [Problem statement "Scrabble"](https://cs50.harvard.edu/x/2024/psets/2/scrabble/)
 * [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/Scrabble)
+
+<!--Exercise 2-->
+#### Name: Readability
+
+* [Problem statement "Readability"](https://cs50.harvard.edu/x/2024/psets/2/readability/)
+* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/readability)

@@ -32,6 +32,7 @@
         * [Credit](#nome-credit)
     - [**Semana 2**](#conjunto-de-problemas-da-semana-2)
         * [Scrabble](#nome-scrabble)
+        * [Readability](#nome-readability)
 
 <!--Fim dos caps-->
 
@@ -74,37 +75,37 @@
 <!--Início do Conjunto de problemas da semana 1-->
 ### - Conjunto de problemas da semana 1
 <!--Exercício 1-->
-#### Nome: Hello World.
+#### Nome: Hello World
 
 * [Enunciado do problema "Hello!"](https://cs50.harvard.edu/x/2024/psets/1/world/)
 * [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/world)
 
 <!--Exercício 2-->
-#### Nome: Hello it's me.
+#### Nome: Hello it's me
 
 * [Enunciado do problema "Hello, it's me"](https://cs50.harvard.edu/x/2024/psets/1/me/)
 * [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/me)
 
 <!--Exercício 3-->
-#### Nome: Mario-less.
+#### Nome: Mario-less
 
 * [Enunciado do problema "Mário-less"](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
 * [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/mario-less)
 
 <!--Exercício 4-->
-#### Nome: Mario-More.
+#### Nome: Mario-More
 
 * [Enunciado do problema "Mário-More"](https://cs50.harvard.edu/x/2024/psets/1/mario/more/)
 * [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/mario-more)
 
 <!--Exercício 5-->
-#### Nome: Cash.
+#### Nome: Cash
 
 * [Enunciado do problema "Cash"](https://cs50.harvard.edu/x/2024/psets/1/cash/)
 * [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/cash)
 
 <!--Exercício 6-->
-#### Nome: Credit.
+#### Nome: Credit
 
 * [Enunciado do problema "Credit"](https://cs50.harvard.edu/x/2024/psets/1/credit/)
 * [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/credit)
@@ -114,7 +115,13 @@
 <!--Início do Conjunto de problemas da semana 2-->
 ### - Conjunto de problemas da semana 2
 <!--Exercício 1-->
-#### Nome: Scrabble.
+#### Nome: Scrabble
 
-* [Enunciado do problema "Hello!"](https://cs50.harvard.edu/x/2024/psets/2/scrabble/)
+* [Enunciado do problema "Scrabble"](https://cs50.harvard.edu/x/2024/psets/2/scrabble/)
 * [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/Scrabble)
+
+<!--Exercício 2-->
+#### Nome: Readability
+
+* [Enunciado do problema "Readability"](https://cs50.harvard.edu/x/2024/psets/2/readability/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/readability)
