@@ -33,6 +33,7 @@
     - [**Week 2**](#problem-set-week-2)
         * [Scrabble](#name-scrabble)
         * [Readability](#name-readability)
+        * [Caesar](#name-caesar)
 
 <!--End of Chapters-->
 
@@ -124,3 +125,9 @@
 
 * [Problem statement "Readability"](https://cs50.harvard.edu/x/2024/psets/2/readability/)
 * [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/readability)
+
+<!--Exercise 3-->
+#### Name: Caesar
+
+* [Problem statement "Caesar"](https://cs50.harvard.edu/x/2024/psets/2/caesar/)
+* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/caesar)
