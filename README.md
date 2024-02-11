@@ -34,6 +34,7 @@
         * [Scrabble](#nome-scrabble)
         * [Readability](#nome-readability)
         * [Caesar](#nome-caesar)
+        * [Substitution](#nome-substitution)
 
 <!--Fim dos caps-->
 
@@ -127,8 +128,17 @@
 * [Enunciado do problema "Readability"](https://cs50.harvard.edu/x/2024/psets/2/readability/)
 * [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/readability)
 
-<!--Exercício 2-->
+<!--Exercício 3-->
 #### Nome: Caesar
 
 * [Enunciado do problema "Caesar"](https://cs50.harvard.edu/x/2024/psets/2/caesar/)
 * [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/caesar)
+
+<!--Exercício 4-->
+#### Nome: Substitution
+
+* [Enunciado do problema "Substitution"](https://cs50.harvard.edu/x/2024/psets/2/substitution/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/substitution)
+<!--Fim do Conjunto de problemas da semana 2-->
+
+---

@@ -5,7 +5,7 @@
 # My solutions to the challenges of the course Introduction to Computer Science: CS50.
 
 <div align="center">
-<!--Nick's Links-->
+<!--Nick Links-->
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nick_ksc/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcolas-kawan-06ab3a2a5/)
@@ -34,6 +34,7 @@
         * [Scrabble](#name-scrabble)
         * [Readability](#name-readability)
         * [Caesar](#name-caesar)
+        * [Substitution](#name-substitution)
 
 <!--End of Chapters-->
 
@@ -131,3 +132,12 @@
 
 * [Problem statement "Caesar"](https://cs50.harvard.edu/x/2024/psets/2/caesar/)
 * [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/caesar)
+
+<!--Exercise 4-->
+#### Name: Substitution
+
+* [Problem statement "Substitution"](https://cs50.harvard.edu/x/2024/psets/2/substitution/)
+* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/substitution)
+<!--End of Problem Set Week 2-->
+
+---
