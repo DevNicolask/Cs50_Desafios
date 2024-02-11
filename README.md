@@ -126,7 +126,7 @@
 #### Nome: Readability
 
 * [Enunciado do problema "Readability"](https://cs50.harvard.edu/x/2024/psets/2/readability/)
-* [Minha resolução]https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/Readability
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/Readability)
 
 <!--Exercício 3-->
 #### Nome: Caesar
