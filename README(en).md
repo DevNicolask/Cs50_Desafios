@@ -35,6 +35,8 @@
         * [Readability](#name-readability)
         * [Caesar](#name-caesar)
         * [Substitution](#name-substitution)
+    - [**Week 3**](#problem-set-week-3)
+        * [Sort](#name-sort)
 
 <!--End of Chapters-->
 
@@ -141,3 +143,10 @@
 <!--End of Problem Set Week 2-->
 
 ---
+<!--Start of Problem Set Week 3-->
+### - Problem Set Week 3
+<!--Exercise 1-->
+#### Name: Sort
+
+* [Problem statement "Scrabble"](https://cs50.harvard.edu/x/2024/psets/3/sort/)
+* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_3/sort)
