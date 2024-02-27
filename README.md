@@ -147,5 +147,5 @@
 <!--Exercício 1-->
 #### Nome: Sort
 
-* [Enunciado do problema "Scrabble"](https://cs50.harvard.edu/x/2024/psets/2/scrabble/)
-* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/Scrabble)
+* [Enunciado do problema "Scrabble"](https://cs50.harvard.edu/x/2024/psets/3/sort/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_3/Sort)
