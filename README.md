@@ -142,3 +142,10 @@
 <!--Fim do Conjunto de problemas da semana 2-->
 
 ---
+<!--Início do Conjunto de problemas da semana 3-->
+### - Conjunto de problemas da semana 3
+<!--Exercício 1-->
+#### Nome: Sort
+
+* [Enunciado do problema "Scrabble"](https://cs50.harvard.edu/x/2024/psets/2/scrabble/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/Scrabble)
