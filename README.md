@@ -37,6 +37,7 @@
         * [Substitution](#nome-substitution)
     - [**Semana 3**](#conjunto-de-problemas-da-semana-3)
         * [Sort](#nome-sort)
+        * [Plurality](#nome-plurality)
 
 <!--Fim dos caps-->
 
@@ -149,5 +150,11 @@
 <!--Exercício 1-->
 #### Nome: Sort
 
-* [Enunciado do problema "Scrabble"](https://cs50.harvard.edu/x/2024/psets/3/sort/)
+* [Enunciado do problema "Sort"](https://cs50.harvard.edu/x/2024/psets/3/sort/)
 * [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_3/sort)
+
+<!--Exercício 2-->
+#### Nome: Plurality
+
+* [Enunciado do problema "Plurality"](https://cs50.harvard.edu/x/2024/psets/3/plurality/)
+* [Minha resolução](https://github.com/DevNicolask/Cs50_Desafios/blob/main/desafios.cs50/week_3/plurality/plurality.c)
