@@ -1,147 +1,63 @@
-<!--Repository Title-->
-# My solutions to the challenges of the course Introduction to Computer Science: CS50.
+<!-- Main title for the repository -->
+# CS50's Introduction to Computer Science
 
-<!--line-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = line ><br>
-<!--Start of Chapters-->
+<!-- Brief description of the project and its goals -->
+## Introduction
 
-## **I. Chapters**
+This repository contains my solutions to the problem sets and exercises from **CS50's Introduction to Computer Science**, offered by Harvard University. It documents my progress throughout the course and my practical application of concepts related to programming, algorithms, data structures, memory, and software development.
 
-* [**II. Introduction**](#ii-introduction-✌️)
-* [**III. Exercises**](#iii-exercises)
-    - [**Week 0**](#problem-set-week-0)
-        * [Scratch](#name-scratch)
-    - [**Week 1**](#problem-set-week-1)
-        * [Hello World](#name-hello-world)
-        * [Hello, it's me](#name-hello-its-me)
-        * [Mario-less](#name-mario-less)
-        * [Mario-More](#name-mario-more)
-        * [Cash](#name-cash)
-        * [Credit](#name-credit)
-    - [**Week 2**](#problem-set-week-2)
-        * [Scrabble](#name-scrabble)
-        * [Readability](#name-readability)
-        * [Caesar](#name-caesar)
-        * [Substitution](#name-substitution)
-    - [**Week 3**](#problem-set-week-3)
-        * [Sort](#name-sort)
-        * [Plurality](#name-plurality)
+> **Course:** [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/)<br>
+> **Institution:** Harvard University<br>
+> **Status:** In progress
 
-<!--End of Chapters-->
+<!-- Table containing the curriculum and relative links to the local directories -->
+## Problem Sets
 
-<!--line-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = line ><br>
-<!--Start of Intro-->
-## **II. Introduction ✌️**
+| Week | Topic | Solution |
+| :--- | :---- | :--- |
+| Week 0 | [Scratch](https://cs50.harvard.edu/x/2024/psets/0/scratch) | [View Solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_0) |
+| Week 1 | [Hello World](https://cs50.harvard.edu/x/2024/psets/1/world/) | [View Solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/world) |
+|  | [Hello, it's me](https://cs50.harvard.edu/x/2024/psets/1/me/) | [View Solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/me) |
+|  | [Mario-less](https://cs50.harvard.edu/x/2024/psets/1/mario/less/) | [View Solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/mario-less) |
+|  | [Mario-More](https://cs50.harvard.edu/x/2024/psets/1/mario/more/) | [View Solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/mario-more) |
+|  | [Cash](https://cs50.harvard.edu/x/2024/psets/1/cash/) | [View Solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/cash) |
+|  | [Credit](https://cs50.harvard.edu/x/2024/psets/1/credit/) | [View Solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/credit) |
+| Week 2 | [Scrabble](https://cs50.harvard.edu/x/2024/psets/2/scrabble/) | [View Solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/Scrabble) |
+|  | [Readability](https://cs50.harvard.edu/x/2024/psets/2/readability/) | [View Solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/Readability) |
+|  | [Caesar](https://cs50.harvard.edu/x/2024/psets/2/caesar/) | [View Solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/caesar) |
 
-### Welcome to my repository of projects and challenges from CS50's course.
+<!-- Status of the repository updates -->
+## Progress
 
-### Here, you'll find a collection of my projects and challenge solutions developed during the [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) course from Harvard University, available on [EDX](https://www.edx.org/).
+This repository is currently **in progress**. New solutions will be added as I continue through the course.
 
-### Website used for exercises: [cs50.dev](https://cs50.dev./)
-<!--End Intro-->
+<!-- Important disclaimer regarding CS50's academic honesty policy -->
+## Notes
 
-<!--Exercises start here!!!-->
+The solutions in this repository represent my own learning process and are intended for educational purposes only. Please adhere to CS50's Academic Honesty guidelines.
 
-<!--line-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = line ><br>
-## **III. Exercises**
+<!-- Social media badges and contact information -->
+<div align="center">
 
-<!--Link to problem set 0-->
-<p>
-
-* [Link to problem set 0. (Edx - Cs50)](https://cs50.harvard.edu/x/2024/psets/0/)
-</p>
-
----
-<!--Start of Week 0 problem set-->
-### - Problem Set Week 0
-#### Name: Scratch
-
-* [Problem statement "Scratch"](https://cs50.harvard.edu/x/2024/psets/0/scratch/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_0)
-
-<!--End of Week 0 problem set-->
-
----
-<!--Start of Week 1 problem set-->
-### - Problem Set Week 1
-<!--Exercise 1-->
-#### Name: Hello World
-
-* [Problem statement "Hello!"](https://cs50.harvard.edu/x/2024/psets/1/world/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/world)
-
-<!--Exercise 2-->
-#### Name: Hello it's me
-
-* [Problem statement "Hello, it's me"](https://cs50.harvard.edu/x/2024/psets/1/me/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/me)
-
-<!--Exercise 3-->
-#### Name: Mario-less
-
-* [Problem statement "Mario-less"](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/mario-less)
-
-<!--Exercise 4-->
-#### Name: Mario-More
-
-* [Problem statement "Mario-More"](https://cs50.harvard.edu/x/2024/psets/1/mario/more/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/mario-more)
-
-<!--Exercise 5-->
-#### Name: Cash
-
-* [Problem statement "Cash"](https://cs50.harvard.edu/x/2024/psets/1/cash/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/cash)
-
-<!--Exercise 6-->
-#### Name: Credit
-
-* [Problem statement "Credit"](https://cs50.harvard.edu/x/2024/psets/1/credit/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_1/credit)
-<!--End of Problem Set Week 1-->
-
----
-<!--Start of Problem Set Week 2-->
-### - Problem Set Week 2
-<!--Exercise 1-->
-#### Name: Scrabble
-
-* [Problem statement "Scrabble"](https://cs50.harvard.edu/x/2024/psets/2/scrabble/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/Scrabble)
-
-<!--Exercise 2-->
-#### Name: Readability
-
-* [Problem statement "Readability"](https://cs50.harvard.edu/x/2024/psets/2/readability/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/Readability)
-
-<!--Exercise 3-->
-#### Name: Caesar
-
-* [Problem statement "Caesar"](https://cs50.harvard.edu/x/2024/psets/2/caesar/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/caesar)
-
-<!--Exercise 4-->
-#### Name: Substitution
-
-* [Problem statement "Substitution"](https://cs50.harvard.edu/x/2024/psets/2/substitution/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_2/substitution)
-<!--End of Problem Set Week 2-->
-
----
-<!--Start of Problem Set Week 3-->
-### - Problem Set Week 3
-<!--Exercise 1-->
-#### Name: Sort
-
-* [Problem statement "Scrabble"](https://cs50.harvard.edu/x/2024/psets/3/sort/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_3/sort)
-
-<!--Exercise 2-->
-#### Name: Plurality
-
-* [Problem statement "Plurality"](https://cs50.harvard.edu/x/2024/psets/3/plurality/)
-* [My solution](https://github.com/DevNicolask/Cs50_Desafios/tree/main/desafios.cs50/week_3/plurality)
+  <table> 
+  
+  ## Connect with me
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/dev_nck/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/nicolas-kawan-santos-developer/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:dev.nicolask@gmail.com?subject=Contato" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white" alt="Gmail">
+      </a>
+    </td>
+  </tr>
+  </table>
+</div>
